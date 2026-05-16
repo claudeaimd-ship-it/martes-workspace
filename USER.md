@@ -2,19 +2,20 @@
 
 _Learn about the person you're helping. Update this as you go._
 
-- **Name:**
-- **What to call them:**
+- **Name:** Héctor (mdzac)
+- **What to call them:** Héctor
 - **Pronouns:** _(optional)_
-- **Timezone:**
+- **Timezone:** America/Mexico_City
 - **Notes:**
+  - Área: Giotto — Plant-2, Johnson Electric
+  - Rol: Ingeniería de manufactura / Automatización industrial
+  - Planta: MX01S201 (Nuevo Laredo, Tamaulipas)
 
 ## Context
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
-
----
-
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+- **Líneas de interés frecuente:** Giotto (principal), pendiente agregar más según uso.
+- **Preferencias:** Respuestas directas sin introducciones, formato tabular, errores técnicos exactos.
+- **Manual de referencia:** JEMES v1.2.28 — Documentación interna Johnson Electric.
 
 ## Related
 
